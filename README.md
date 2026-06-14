@@ -200,7 +200,7 @@ Professional developer portfolio showcasing projects, skills, achievements, and 
 
 ### Krytel
 
-Duration: 2025 - Present
+Duration: 2026 - Present
 
 Worked on modern web applications, backend services, API development, and scalable software solutions while collaborating with development teams in a professional engineering environment.
 
