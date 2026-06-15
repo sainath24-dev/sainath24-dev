@@ -229,43 +229,6 @@ React Node.js MongoDB JavaScript API Development Full Stack Development
 | Academic Projects | Multiple AI & Full Stack Projects Delivered |
 | Industry Experience | Full Stack Development Internship |
 
----
-
-# Certifications
-
-## AWS
-
-Currently Pursuing
-
-## Oracle
-
-Currently Pursuing
-
-## NPTEL
-
-Currently Pursuing
-
-## Cisco
-
-Currently Pursuing
-
----
-
-# Coding Profiles
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/LeetCode-Starting%20Journey-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-
-<img src="https://img.shields.io/badge/GeeksforGeeks-Learning-2F8D46?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/HackerRank-Learning-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
-
-<img src="https://img.shields.io/badge/CodeChef-Learning-5B4638?style=for-the-badge" />
-
-</p>
-
----
 
 # GitHub Analytics
 
