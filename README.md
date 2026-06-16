@@ -63,7 +63,7 @@ Currently pursuing my B.Tech (Final Year) while gaining industry experience as a
 ### Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,cpp" />
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript" />
 </p>
 
 ### Frontend
@@ -75,13 +75,13 @@ Currently pursuing my B.Tech (Final Year) while gaining industry experience as a
 ### Backend & Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
 </p>
 
 ### Cloud, DevOps & Tooling
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode" />
 </p>
 
 ---
